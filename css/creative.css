@@ -182,7 +182,7 @@ header.masthead {
     text-align: center;
     opacity: 0;
     color: #000000;
-    background: rgba(240, 95, 64, 0.9);
+    background: rgba(0, 255, 210, 0.8);
     -webkit-transition: all 0.2s;
     -moz-transition: all 0.2s;
     transition: all 0.2s; }
@@ -238,4 +238,8 @@ header.masthead {
 
 .skills{
   height: 130px;
+}
+.left{
+  display: flex;
+  justify-content: space-around;
 }
