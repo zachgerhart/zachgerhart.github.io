@@ -243,3 +243,7 @@ header.masthead {
   display: flex;
   justify-content: space-around;
 }
+
+.picture {
+  border-radius: 12%;
+}
